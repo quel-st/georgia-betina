@@ -1,9 +1,3 @@
-<style type="text/css">
-  .small {
-    font-size: 12px;
-  }
-</style>
-
 <h1 align="center">Greetings 👋</h1>
 
 <div align="center">
