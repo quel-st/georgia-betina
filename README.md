@@ -33,14 +33,13 @@
 <h2 align="center">Contact 👇</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ge%C3%B3rgia-betina/"><img alt="linkedin badge" src="https://img.shields.io/badge/geórgia-betina?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;&nbsp;&nbsp; <a href="mailto:georgia_betina@hotmail.com"><img alt="outlook badge" src="https://img.shields.io/badge/georgia_betina-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <br />
+  <a href="https://www.linkedin.com/in/ge%C3%B3rgia-betina/"><img alt="linkedin badge" src="https://img.shields.io/badge/geórgia-betina?style=for-the-badge&logo=linkedin&logoColor=ff652f&color=09131b"></a> &nbsp;&nbsp;&nbsp; <a href="mailto:georgia_betina@hotmail.com"><img alt="outlook badge" src="https://img.shields.io/badge/georgia_betina-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=ff652f&color=09131b"></a>
   <br />
   <br />
   <br />
   I appreciate your visit! TSYM
   <br />
-  <img alt="profile views badge" src="https://komarev.com/ghpvc/?username=georgia-betina&style=for-the-badge">
+  <img alt="profile views badge" src="https://komarev.com/ghpvc/?username=georgia-betina&style=flat&color=09131b&label=Views"">
 </div>
 
 
