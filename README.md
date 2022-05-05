@@ -1,17 +1,37 @@
-<h1 style="text-align: center;">Greetings 👋</h1>
+<style type="text/css">
+  .small {
+    font-size: 12px;
+  }
+</style>
 
-<p>🖥️ | <strong>Who am I:</strong> I'm Geórgia, 22 y/o (she/her).</p>
+<h1 align="center">Greetings 👋</h1>
 
-<p>⌨️ | <strong>Job:</strong> looking for internship or apprenticeship.</p>
+<div align="center">
+  <img width="200px" src="https://i.imgur.com/kwlTS9k.png">  
+</div>
 
-<p>🖱️ | <strong>Studying:</strong> Java, Ruby, and Flutter/Dart.</p>
+<div align="center">
+  <p>&#8226;&nbsp;&nbsp; 🖥️ | <strong>Who am I:</strong> I'm Geórgia, 22 y/o (she/her) &nbsp;&nbsp;&#8226;</p>
+  <p>&#8226;&nbsp;&nbsp; ⌨️ | <strong>Job:</strong> looking for internship or apprenticeship &nbsp;&nbsp;&#8226;</p>
+  <p>&#8226;&nbsp;&nbsp; 🖱️ | <strong>Studying:</strong> Java, Ruby, and Flutter/Dart &nbsp;&nbsp;&#8226;</p>
+</div>
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgia-betina&theme=dracula)](https://github.com/georgia-betina/github-readme-stats)-->
 
-<div>
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgia-betina&layout=compact&theme=dracula&card_width=300" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgia-betina&layout=compact&theme=codeSTACKr&card_width=300" />
   </a>
+</div>
+
+<br />
+
+<h2 align="center">Volunteer 👊</h2>
+
+<div align="center">
+  <p>&#8226;&nbsp;&nbsp; <strong><a href="https://github.com/ColmeiaUDESC">Colmeia</a></strong> &nbsp;&nbsp;&#8226;
+    <br />
+    FOSS and FOSH - <em>A UDESC CCT University Extension project</em></p>
 </div>
 
 
