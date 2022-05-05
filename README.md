@@ -1,7 +1,11 @@
 ## Greetings 👋
 ###### get started
 
-<p style="">Hi! I'm Geórgia, 22 y/o.</p>
+<p>Hi! I'm Geórgia, 22 y/o.</p>
+
+<p><strong>Work:</strong> I'm looking for internship or apprenticeship.</p>
+
+<p><strong>Studying:</strong> </p>
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgia-betina&theme=dracula)](https://github.com/georgia-betina/github-readme-stats)-->
 
