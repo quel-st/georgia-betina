@@ -1,11 +1,11 @@
-## Greetings 👋
+<h1 style="text-align: center;">Greetings 👋</h1>
 ###### get started
 
-<p>Hi! I'm Geórgia, 22 y/o.</p>
+<p>🖥️ | <strong>Who am I:</strong> I'm Geórgia, 22 y/o (she/her).</p>
 
-<p><strong>Work:</strong> I'm looking for internship or apprenticeship.</p>
+<p>⌨️ | <strong>Work:</strong> looking for internship or apprenticeship.</p>
 
-<p><strong>Studying:</strong> </p>
+<p>🖱️ | <strong>Studying:</strong> Java, Ruby, and Flutter/Dart.</p>
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgia-betina&theme=dracula)](https://github.com/georgia-betina/github-readme-stats)-->
 
