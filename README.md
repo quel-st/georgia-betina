@@ -1,7 +1,7 @@
 <h1 align="center">Greetings 👋</h1>
 
 <div align="center">
-  <img width="200px" src="https://i.imgur.com/kwlTS9k.png">  
+  <img alt="girl avatar" width="200px" src="https://i.imgur.com/kwlTS9k.png">  
 </div>
 
 <div align="center">
@@ -14,18 +14,33 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgia-betina&layout=compact&theme=codeSTACKr&card_width=300" />
+    <img alt="github stats bar" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgia-betina&layout=compact&theme=codeSTACKr&card_width=300" />
   </a>
 </div>
 
-<br />
+<br /><br />
 
 <h2 align="center">Volunteer 👊</h2>
 
 <div align="center">
-  <p>&#8226;&nbsp;&nbsp; <strong><a href="https://github.com/ColmeiaUDESC">Colmeia</a></strong> &nbsp;&nbsp;&#8226;
+  <p><strong><a href="https://github.com/ColmeiaUDESC">Colmeia</a></strong>
     <br />
-    FOSS and FOSH - <em>A UDESC CCT University Extension project</em></p>
+    &#8226;&nbsp;&nbsp; FOSS and FOSH - <em>A UDESC CCT University Extension project</em> &nbsp;&nbsp;&#8226;</p>
+</div>
+
+<br /><br />
+
+<h2 align="center">Contact 👇</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ge%C3%B3rgia-betina/"><img alt="linkedin badge" src="https://img.shields.io/badge/geórgia-betina?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;&nbsp;&nbsp; <a href="mailto:georgia_betina@hotmail.com"><img alt="outlook badge" src="https://img.shields.io/badge/georgia_betina-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <br />
+  <br />
+  <br />
+  <br />
+  I appreciate your visit! TSYM
+  <br />
+  <img alt="profile views badge" src="https://komarev.com/ghpvc/?username=georgia-betina&style=for-the-badge">
 </div>
 
 
