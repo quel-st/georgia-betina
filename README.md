@@ -1,5 +1,4 @@
 <h1 style="text-align: center;">Greetings 👋</h1>
-###### get started
 
 <p>🖥️ | <strong>Who am I:</strong> I'm Geórgia, 22 y/o (she/her).</p>
 
