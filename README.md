@@ -2,7 +2,7 @@
 
 <p>🖥️ | <strong>Who am I:</strong> I'm Geórgia, 22 y/o (she/her).</p>
 
-<p>⌨️ | <strong>Work:</strong> looking for internship or apprenticeship.</p>
+<p>⌨️ | <strong>Job:</strong> looking for internship or apprenticeship.</p>
 
 <p>🖱️ | <strong>Studying:</strong> Java, Ruby, and Flutter/Dart.</p>
 
