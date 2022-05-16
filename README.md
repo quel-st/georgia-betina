@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="github stats bar" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgia-betina&layout=compact&theme=codeSTACKr&card_width=300" />
+    <img alt="github stats bar" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgia-betina&layout=compact&theme=codeSTACKr&card_width=300&hide=cmake,c,swift,kotlin,c%2B%2B,objective-c" />
   </a>
 </div>
 
