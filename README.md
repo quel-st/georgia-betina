@@ -4,6 +4,8 @@
   <img alt="girl avatar" width="200px" src="https://i.imgur.com/kwlTS9k.png">  
 </div>
 
+<br />
+
 <div align="center">
   <p>&#8226;&nbsp;&nbsp; 🖥️ | <strong>Who am I:</strong> I'm Geórgia, 22 y/o (she/her) &nbsp;&nbsp;&#8226;</p>
   <p>&#8226;&nbsp;&nbsp; ⌨️ | <strong>Job:</strong> looking for internship or apprenticeship &nbsp;&nbsp;&#8226;</p>
