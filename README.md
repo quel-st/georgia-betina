@@ -11,7 +11,7 @@
   <p>&#8226;&nbsp;&nbsp; ⌨️ | <strong>Job:</strong> looking for internship or apprenticeship &nbsp;&nbsp;&#8226;</p>
   <p>&#8226;&nbsp;&nbsp; 🖱️ | <strong>Studying:</strong> Java, Ruby, and Flutter/Dart &nbsp;&nbsp;&#8226;</p>
   <br />
-  <img alt="Fedora Badge" src="https://img.shields.io/badge/Fedora & Android User-294172?style=for-the-badge&logo=linux&logoColor=ff652f&color=09131b">
+  <img alt="Fedora Badge" src="https://img.shields.io/badge/Fedora & Lineage User-294172?style=for-the-badge&logo=linux&logoColor=ff652f&color=09131b">
 </div>
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgia-betina&theme=dracula)](https://github.com/georgia-betina/github-readme-stats)-->
